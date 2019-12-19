@@ -8,4 +8,4 @@ class Shoe
   end
 end
 
-Shoe.new
+Shoe.new = "Adidas"
