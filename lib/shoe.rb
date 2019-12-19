@@ -7,3 +7,5 @@ class Shoe
     @brand
   end
 end
+
+Shoe.new
