@@ -3,8 +3,8 @@ class Shoe
     @brand = brand
   end
   
-  def brand("Adidas")
-    @brand
+  def brand
+    @brand = "Adidas"
   end
   
    attr_reader :brand
