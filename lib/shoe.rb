@@ -8,4 +8,3 @@ class Shoe
   end
 end
 
-"Adidias" = Shoe.new 
